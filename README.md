@@ -17,5 +17,5 @@ client.on(Discord.Events.Ready,() => {
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:twitchizuna@gmail.com)](mailto:twitchizuna@gmail.com)
 [![YouTube](https://img.shields.io/youtube/channel/subscribers/UCy08-wUkWQekqmDKdtRZqHA?style=social)](https://www.youtube.com/channel/UCy08-wUkWQekqmDKdtRZqHA)
 
-## Projects
+## Repos
 ### [Discord.js v14 Bot Public](https://github.com/izunya/izuna_djs14rP)
