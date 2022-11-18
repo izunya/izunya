@@ -2,8 +2,9 @@
 
 ```javascript
 console.log("Hello World!")
-client.on(Discord.Events.Ready,() => {
-    console.log(`Bot Ready!`)})
+client.on(Discord.Events.Ready, () => {
+    console.log(`Bot Ready!`)
+})
 ```
 
 ## **Introduction**
