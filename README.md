@@ -8,6 +8,8 @@ const client = new Discord.Client()
 client.on(Discord.Events.Ready, () => {
     console.log(`Bot Ready, Hello Izuna!`)
 })
+
+client.login("Izuna's Token")
 ```
 
 ## **Introduction**
