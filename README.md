@@ -32,3 +32,12 @@ client.login("Izuna's Token")
 [![Discord](https://img.shields.io/badge/izunadesu%230127-5865F2?style=flat-square&logo=Discord&logoColor=white)](https://discord.gg/7x4RjfgvTy)
 [![Gmail](https://img.shields.io/badge/Gmail-%23EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:twitchizuna@gmail.com)](mailto:twitchizuna@gmail.com)
 [![Naver](https://img.shields.io/badge/Naver-%2303C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:twitchizuna@gmail.com)](mailto:whdtj5615@naver.com)
+
+<details>
+<summary>Team Projects</summary>
+<div>
+
+## Discord bots
+[Kyaru Beat Saber League](https://github.com/Kyaru-Beat-Saber-League/discord-bot)
+</div>
+</details>
