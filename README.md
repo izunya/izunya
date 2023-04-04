@@ -15,7 +15,6 @@ client.login("Izuna's Token")
 ## **Introduction**
 
 - I'm Izuna
-- Now I'm studying in university (Computer Engineering)
 
 ## Use Langs
 
