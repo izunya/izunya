@@ -15,21 +15,34 @@ client.login("Izuna's Token")
 ## **Introduction**
 
 - I'm Izuna
+- Now I'm studying in university (Computer Science)
 
 ## Use Langs
 
-[![JavaScript](https://img.shields.io/badge/javascript-%23424052.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://en.wikipedia.org/wiki/JavaScript)
-[![Java](https://img.shields.io/badge/kotlin-%2377f8cc?style=for-the-badge&logo=kotlin&logoColor=%237F52FF)](https://en.wikipedia.org/wiki/Java_(programming_language))
+[![JavaScript](https://img.shields.io/badge/javascript-%23424052.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E&labelColor=%23000000)](https://en.wikipedia.org/wiki/JavaScript)
+
+<details>
+<summary>Learn Langs</summary>
+<div>
+
+[![Java](https://img.shields.io/badge/kotlin-%2377f8cc?style=for-the-badge&logo=kotlin&logoColor=%237F52FF&labelColor=%23000000)](https://en.wikipedia.org/wiki/Java_(programming_language))
+
+[![C++](https://img.shields.io/badge/CPP-%2365c0ff?style=for-the-badge&logo=C%2b%2b&logoColor=%2300599C&labelColor=%23000000)](https://en.wikipedia.org/wiki/C%2B%2B)
+
+[![Python](https://img.shields.io/badge/Python-%23000000?style=for-the-badge&logo=Python&logoColor=%233776AB&labelColor=%23ffc000)](https://en.wikipedia.org/wiki/C%2B%2B)
+
+</div>
+</details>
 
 
 ## Language
-- KR (실질적으로 0개국어)
+- KR (모국어)
 - JP (ひらがなとカタカナと話す)
 - ENG (Little bit)
 
 ## Contacts
 
-[![Discord](https://img.shields.io/badge/izunadesu%230127-5865F2?style=flat-square&logo=Discord&logoColor=white)](https://discord.gg/7x4RjfgvTy)
+[![Discord](https://img.shields.io/badge/izunadesu%230127-5865F2?style=&logo=Discord&logoColor=white)](https://discord.gg/7x4RjfgvTy)
 [![Gmail](https://img.shields.io/badge/Gmail-%23EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:twitchizuna@gmail.com)](mailto:twitchizuna@gmail.com)
 [![Naver](https://img.shields.io/badge/Naver-%2303C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:twitchizuna@gmail.com)](mailto:whdtj5615@naver.com)
 
