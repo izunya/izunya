@@ -6,7 +6,7 @@ const Discord = require('discord.js')
 const client = new Discord.Client()
 
 client.on(Discord.Events.Ready, () => {
-    console.log(`Bot Ready, Hello Izuna!`)
+    console.log(`Bot Ready, Hello izuna_1#0127!`)
 })
 
 client.login("Izuna's Token")
@@ -43,7 +43,7 @@ client.login("Izuna's Token")
 
 ## Contacts
 
-[![Discord](https://img.shields.io/badge/izunadesu%230127-5865F2?style=&logo=Discord&logoColor=white)](https://discord.gg/7x4RjfgvTy)
+[![Discord](https://img.shields.io/badge/izuna_1%230127-5865F2?style=&logo=Discord&logoColor=white)](https://discord.gg/7x4RjfgvTy)
 [![Gmail](https://img.shields.io/badge/Gmail-%23EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:twitchizuna@gmail.com)](mailto:twitchizuna@gmail.com)
 [![Naver](https://img.shields.io/badge/Naver-%2303C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:twitchizuna@naver.com)](mailto:twitchizuna@naver.com)
 
