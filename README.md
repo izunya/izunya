@@ -6,7 +6,7 @@ const Discord = require('discord.js')
 const client = new Discord.Client()
 
 client.on(Discord.Events.Ready, () => {
-    console.log(`Bot Ready, Hello izuna_1#0127!`)
+    console.log(`Bot Ready, Hello izuna_1!`)
 })
 
 client.login("Izuna's Token")
@@ -38,7 +38,7 @@ client.login("Izuna's Token")
 
 ## Language
 - KR (모국어)
-- JP (ひらがなとカタカナと話す)
+- JP (ひらがな,カタカナ,少し言う,漢字知らない)
 - ENG (Little bit)
 
 ## Contacts
@@ -63,6 +63,16 @@ client.login("Izuna's Token")
 
 ## Discord bots
 [Kyaru Beat Saber League](https://github.com/Kyaru-Beat-Saber-League/discord-bot)
+
+</div>
+</details>
+
+<details>
+<summary>Other</summary>
+<div>
+
+## Information page editer
+[Beat Saber Community for Korea](https://bsckorea.github.io/informationmain.html)
 
 </div>
 </details>
